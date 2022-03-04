@@ -1,4 +1,4 @@
-### MERHABA BEN CANPOLAT GÖKKAYA HOŞGELDİN ,
+### BEN CANPOLAT GÖKKAYA PROFİLİME HOŞGELDİN ,
 
 -------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://github.com/coderbycanpolat/coderbycanpolat/blob/main/profil.jpg" width="auto">
