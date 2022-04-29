@@ -30,9 +30,9 @@
 
 ==============================================
 
-  # Bağış için [Tıkla](https://telegra.ph/DESTEK-OL-04-29)
+  # Bağış İçin [Tıkla](https://telegra.ph/DESTEK-OL-04-29)
   
-<img src="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif" height="100" with="300">
+<img src="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif" height="500" with="300">
   
   
   
