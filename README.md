@@ -23,15 +23,15 @@
     
 
    
-<h3 align="left">Sosyal Medya :</h3>
+
 <p align="left">
-<a href="https://www.instagram.com/canpolatgkky/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anonimxx197" height="30" width="40" /></a>
+[![instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&https://instagram.com/canpolatgkky=https://instagram.com/canpolatgkky)](https://instagram.com/canpolatgkky) 
+[![Blogger](https://img.shields.io/badge/-Blogger-FF9800?style=flat-
 <a href="https://t.me/canpolatgkky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="anonimxx197" height="30" width="40" /></a>
 
 <details>
 <summary>Daha fazla bilgi</summary>
   
-# Ne Aramıştın Canım :)
 
   # Bağış için [Tıkla](https://telegra.ph/DESTEK-OL-04-29)
   
