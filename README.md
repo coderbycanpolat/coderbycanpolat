@@ -35,8 +35,9 @@
 ==============================================
 
   # Bağış İçin [Tıkla](https://telegra.ph/DESTEK-OL-04-29)
-  
-<img src="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif" height="404" with="404">
+  <img src="https://giphy.com/gifs/organic-ai-worm-KfkRQXMe5q7MLt3CI9" width="50"></h2>
+
+<p align="left">
   
   
   
