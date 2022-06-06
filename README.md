@@ -14,7 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=coderbycanpolat&color=565f89&style=flat)
 
-![Queen Github stats](https://github-readme-stats.vercel.app/api?username=coderbycanpolat&show_icons=true&theme=tokyonight)
+
 
 <p align="center"> 
   Visitors count<br>
