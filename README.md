@@ -17,9 +17,8 @@
 
 
 <p align="center"> 
-  Ziyaretçi sayısı<br>
-  
-  <img src="https://profile-counter.glitch.me/coderbycanpolat/count.svg" />
+  Ziyaretçi sayısı <br>
+    <img src="https://profile-counter.glitch.me/coderbycanpolat/count.svg" />
 
 <p align="center">
   <a href="https://github.com/coderbycanpolat">
