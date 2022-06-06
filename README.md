@@ -5,6 +5,13 @@
 # Merhaba Profilime Hoşgeldin
 
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=You+Are+Learning+What+I+Forgot;Software+Developer;CANPOLAT%20GÖKKAYA&center=true&width=500&height=50"></a>
+</p>
+
+
+------------------------------------------------
+
 ![](https://komarev.com/ghpvc/?username=coderbycanpolat&color=565f89&style=flat)
 
 ![Queen Github stats](https://github-readme-stats.vercel.app/api?username=coderbycanpolat&show_icons=true&theme=tokyonight)
