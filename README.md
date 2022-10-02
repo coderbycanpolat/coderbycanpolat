@@ -17,7 +17,7 @@
 
 
 <p align="center"> 
-  Ziyaretçi sayısı 
+  Toplam Ziyaretçi Sayısı 
   <br>
     <img src="https://profile-counter.glitch.me/coderbycanpolat/count.svg" />
 
