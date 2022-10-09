@@ -2,7 +2,7 @@
 
 
 
-# Merhaba Profilime Hoşgeldin
+
 
 
 <p align="center">
