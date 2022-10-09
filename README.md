@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=You+Are+Learning+What+I+Forgot;Software+Developer;CANPOLAT%20GÖKKAYA&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Acme&size=29&pause=2000&color=690000&background=00000300&center=true&vCenter=true&width=433&lines=CANPOLAT+G%C3%96KKAYA;You+Are+Learning+What+I+Forgot;Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 
