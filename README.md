@@ -12,29 +12,24 @@
 
 ------------------------------------------------
 
-  <p align="center">
-    <a href="https://github.com/coderbycanpolat"><img src="https://visitor-badge.laobi.icu/badge?page_id=keyiflerolsun&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
-    </a>
-  </p>
-
+ 
 
 
 <p align="center"> 
   Toplam Ziyaretçi Sayısı 
   <br>
     <img src="https://profile-counter.glitch.me/coderbycanpolat/count.svg" />
+  
+  
+  
+  
+   <p align="center">
+    <a href="https://github.com/coderbycanpolat"><img src="https://visitor-badge.laobi.icu/badge?page_id=coderbycanpolat&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/coderbycanpolat">
-    <img src="https://komarev.com/ghpvc/?username=coderbycanpolat&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
-  </a>
-  <a href="https://github.com/coderbycanpolat?tab=stars">
-    <img src="https://img.shields.io/github/stars/coderbycanpolat?color=ff69b4&label=Stargazers&style=plastic">
 
-  </a>
-  <a href="https://github.com/coderbycanpolat?tab=followers">
-    <img src="https://img.shields.io/github/followers/coderbycanpolat?color=ff69b4&label=Followers&style=plastic">
     
  ----------------------------------------------
     
