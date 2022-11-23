@@ -12,7 +12,10 @@
 
 ------------------------------------------------
 
-![](https://komarev.com/ghpvc/?username=coderbycanpolat&color=565f89&style=flat)
+  <p align="center">
+    <a href="https://github.com/coderbycanpolat"><img src="https://visitor-badge.laobi.icu/badge?page_id=keyiflerolsun&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
+    </a>
+  </p>
 
 
 
