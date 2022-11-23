@@ -1,11 +1,7 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="10">
-
-
-
- 
   
    <p align="center">
-    <a href="https://github.com/coderbycanpolat"><img src="https://visitor-badge.laobi.icu/badge?page_id=coderbycanpolat&left_text=ZİYARETÇİ SAYISI" alt="Ziyaret"></a>
+    <a href="https://github.com/coderbycanpolat"><img src="https://visitor-badge.laobi.icu/badge?page_id=coderbycanpolat&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
     </a>
   </p>
 
