@@ -22,7 +22,7 @@
 
 ------------------------------------------------
 
-  # Bağış İçin [Tıkla](https://telegra.ph/DESTEK-OL-04-29)
+  # [Kahve Ismarla](https://telegra.ph/DESTEK-OL-04-29)
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="left">
