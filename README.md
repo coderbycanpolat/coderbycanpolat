@@ -22,8 +22,8 @@
 
 ------------------------------------------------
 
-  # [Kahve Ismarla](https://telegra.ph/DESTEK-OL-04-29)
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+  # [☕ Kahve Ismarla](https://coderbycanpolat.github.io/%C4%B1smarla.html)
+ 
 
 <p align="left">
   
