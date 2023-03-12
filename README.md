@@ -30,7 +30,7 @@
 ------------------------------------------------
   
   
-<h1 align = "Center" > Activity </h1>
+<h1 align = "Center" > 🐍 Yılan Animasyonu 🐍 </h1>
 
 <br> 
 <div align="center">
